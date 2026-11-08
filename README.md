@@ -69,10 +69,3 @@ Through this project, I practiced:
 - Store registration details using a backend.
 - Add password strength checking.
 
-## 👨‍💻 Author
-
-Created as a frontend development learning project.
-
-## 📄 License
-
-This project is open-source and available for learning and educational purposes.
